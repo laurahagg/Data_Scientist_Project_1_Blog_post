@@ -7,6 +7,7 @@ The following files are in the repository:
 Blog_post_code.ipynb
 README.md
 Blog_post_code.html
+Blog_post_by_Laura_Hagg.pdf
 
 
 
